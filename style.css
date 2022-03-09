@@ -1,0 +1,17 @@
+/* .carousel-control-prev {
+    display: none;
+}
+
+.carousel-control-next {
+    display: none;
+} */
+
+.carousel {
+    overflow: hidden;
+}
+
+.carousel-item {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
