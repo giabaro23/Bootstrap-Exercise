@@ -93,6 +93,9 @@ body {
 .banner {
     margin-bottom: 100px;
     margin-top: 100px;
+    padding: 0;
+    width: 100vw;
+    margin-right: 0;
 }
 
 .content__title {
@@ -107,6 +110,8 @@ body {
 
 .carousel-item {
     border-radius: 0;
+    border: 0;
+    margin: 0;
 }
 
 .carousel-item img {
@@ -118,9 +123,13 @@ body {
     height: 150px;
     background-color: #000000;
     background-image: linear-gradient(315deg, #000000 0%, #7f8c8d 74%);
+    width: 100vw;
 }
 
 #contact {
     background-color: #000000;
     background-image: linear-gradient(315deg, #000000 0%, #7f8c8d 74%);
+    padding: 0;
+    width: 100vw;
+    margin: 0;
 }
